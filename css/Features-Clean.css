@@ -43,8 +43,11 @@
 
 .features-clean .item {
   min-height: 100px;
-  padding-left: 80px;
+  /*padding-left: 80px;*/
   margin-bottom: 40px;
+  border: 2px solid #EEF4F7;
+  border-radius: 8px;
+  padding: 5px;
 }
 
 @media (max-width:767px) {
